@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sjh04
 - 👀 I’m interested in AI and deep learning.
 - 🌱 I’m a freshman in NEU, China, major in computer science.
-- 📫 My email account: jiahengsun086@gmail.com
+- 📫 My email account: 3101358667@qq.com
 - 😄 Pronouns: Be happy all the way.
 
 <!---
