@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sjh04
 - 👀 I’m interested in AI and deep learning.
-- 🌱 I’m a freshman in NEU, China, major in computer science.
+- 🌱 I’m a student in NEU, China, major in computer science.
 - 📫 My email account: jiahengsun086@gmail.com
 - 😄 Pronouns: Be happy all the way.
 
